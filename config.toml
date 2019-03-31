@@ -1,0 +1,59 @@
+## Basic Configuration
+
+baseurl = "/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Jean Morais"
+title = "Jean Morais"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = ""
+#googleAnalytics = ""
+#enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Jean Morais"
+intro = "Software Engineer"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "jeanmorais"
+linkedin = "jean-morais"
+twitter = "jeanmorais"
+medium= "@jeanmorais"
+soundcloud = "jeanmorais"
+
+## Extras
+[params.extra]
+copyright = "© 2019. Jean Morais."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+
+## Main Menu
+##[[menu.main]]
+##    name = "blog"
+##    weight = 100
+##   identifier = "blog"
+##    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
