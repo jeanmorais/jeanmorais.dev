@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "/"
+baseurl = "https://jeanmorais.dev"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -28,8 +28,8 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Personal blog"
+keywords = "jeanmorais,blog,hugo,developer"
 
 ## Social Accounts
 [params.social]
