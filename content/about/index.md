@@ -12,7 +12,7 @@ showpagemeta = false
 
 Hello World!
 
-I'm a very curious software developer. When I'm not working, I'll probably be researching new things to learn, looking for [new tracks/new electronic music artists](https://soundcloud.com/jeanmorais), and watching football and NBA games.
+I'm a very curious software developer. When I'm not working, I'll probably be coding, reading, looking for [new tracks/electronic music artists](https://soundcloud.com/jeanmorais), and watching football and NBA games.
 
 I currently work as a Software Developer at [Neoway](https://www.neoway.com.br/), helping companies through Big Data solutions. 
 
