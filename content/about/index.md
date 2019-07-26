@@ -16,4 +16,4 @@ I'm a very curious software developer. When I'm not working, I'll probably be co
 
 I currently work as a Software Developer at [Neoway](https://www.neoway.com.br/), helping companies through Big Data solutions. 
 
-Although Java is my background, I've been writing a piece of code in Golang today. I'm also focused on topics like CI/CD, Cloud Computing, Containers, and DevOps best practices.
+Although Java is my background,  currently I've been writing more in Python and Golang. I’m also focused on topics like cloud native solutions, microservices, and DevOps best practices.
